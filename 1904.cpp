@@ -1,8 +1,9 @@
-#include <cstdio>
+#include <iostream>
 using namespace std;
 
 int main() {
-  int n; 
-  scanf("%d", &n);
+  ios::sync_with_stdio(0);
+  cin.tie(0);
 
+ 
 }
